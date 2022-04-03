@@ -1,0 +1,10 @@
+{
+  "name": "jsdoc-method-type",
+  "private": true,
+  "scripts": {
+    "jsdoc": "jsdoc src"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.10"
+  }
+}
